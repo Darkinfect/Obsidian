@@ -1,6 +1,6 @@
 {
-  "remoteURL": "https://github.com/Darkinfect/optinal.git",
-  "gitLocation": "https://github.com/Darkinfect/optinal.git",
+  "remoteURL": "git@github.com:Darkinfect/Obsidian.git",
+  "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true
