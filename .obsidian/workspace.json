@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Ответы на вопросы."
             }
+          },
+          {
+            "id": "8a3f9f7ddc766e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан3Сем/Ответы на вопросы..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ответы на вопросы."
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f483826a09f7dd7",
+  "active": "8a3f9f7ddc766e50",
   "lastOpenFiles": [
     "Матан3Сем/Ответы на вопросы..md",
     "Матан3Сем",
