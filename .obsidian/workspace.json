@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Теоремы"
             }
+          },
+          {
+            "id": "f1e84e8d6f5194f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,39 +215,42 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ea83a95fe152bc34",
+  "active": "f1e84e8d6f5194f1",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Линал/Глава 1. Векторные пространства/Теоремы.md",
+    "Команды Для работы с Битами.md",
+    "Колок 1.md",
+    "Диффуры/Differential_Equations_Answers.md",
+    "VS Code/Конфигурация launch и task в vs code.md",
+    "VS Code",
+    "Linux/Лекция по Осям.md",
+    "Linux/Hyprland.md",
+    "Linux/Commands.md",
+    "Linux",
+    "JadeCore Ideas.md",
+    "Assembler/Организация циклов.md",
+    "Assembler/Команды.md",
+    "Assembler/КласКомУпрПот.md",
+    "Assembler/Дополнение.md",
+    "Assembler/Вопросы к зачёту.md",
+    "Assembler/8Вопрос.md",
+    "Assembler/5Вопрос.md",
+    "Assembler/6Вопрос.md",
+    "Assembler/4Вопрос.md",
+    "Assembler/1ВопросASM.md",
+    "Assembler",
     "Линал/Глава 1. Векторные пространства/Определения.md",
     "Линал/Глава 1. Векторные пространства/Доказательства теорем.md",
     "Идеи/Миша and AI.md",
     "СтатАн Лаб1.md",
     "Миша.md",
     "Диффуры/Ответы на колок диффуры.md",
-    "Идеи/Идея.md",
-    "Матан3Сем/Ответы на вопросы..md",
     "Диффуры",
     "Матан3Сем",
-    "CorePortectJava/permissions.md",
     "Идеи",
-    "CorePortectJava/languages.md",
-    "CorePortectJava/index.md",
-    "CorePortectJava/config.md",
-    "CorePortectJava/commands.md",
-    "Ассемблер/tools-integrations.md",
-    "Ассемблер/1ВопросASM.md",
-    "Линал/Глава 1. Векторные пространства/Теоремы.md",
-    "CorePortectJava/api/version/v10.md",
-    "Ассемблер/6Вопрос.md",
-    "Глава 1. Векторные пространста.md",
-    "Ассемблер/Решения задач.md",
     "Линал/Глава 1. Векторные пространства",
-    "Untitled 1.md",
-    "Ассемблер/Строковые команды.md",
     "Ассемблер",
-    "Линал",
-    "CorePortectJava/api/networking.md",
-    "CorePortectJava/api/version/v7.md",
-    "Ассемблер/Вопросы к зачёту.md",
-    "Ассемблер/Массивы.md"
+    "Линал"
   ]
 }
